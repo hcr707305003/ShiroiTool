@@ -16,6 +16,7 @@ namespace ShiroiTool
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            DllLoadHelper.LoadResourceDll();//动态加载resource里边的dll资源
             Application.Run(new Form1());
         }
     }

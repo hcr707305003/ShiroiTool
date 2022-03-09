@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DownloaderTest.Properties
+namespace ShiroiTool.Properties
 {
 
 
